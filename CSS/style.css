@@ -64,3 +64,10 @@ body{
     color: #1f2937;
     text-align: center;
 }
+.images{
+    display: flex;
+    justify-content: space-between;
+}
+.image p{
+    font-size: 16px;
+}
