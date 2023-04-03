@@ -58,3 +58,9 @@ body{
     padding-right: 150px;
     padding-bottom: 80px;
 }
+.container2 p{
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+    text-align: center;
+}
