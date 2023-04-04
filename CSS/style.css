@@ -45,9 +45,10 @@ body{
     color: #ffffff;
     border-radius: 10px;
     padding: 10px;
-    width: 100px;
+    width: 150px;
     font-size: 18px;
     font-weight: bold;
+    border: ;
 }
 .imagebox{
     flex: 1;
@@ -82,8 +83,34 @@ body{
     font-size: 36px;
     color: #1f2937;
   }
-  .author{
+.author{
     display: flex;
     justify-content: flex-end;
     font-size: 24px;
   }
+.calltoaction{
+    background-color: #3882f6;
+    color: #f9faf8;
+    margin: 100px;
+    margin-left: 200px;
+    padding: 40px 100px;
+    border-radius: 15px;
+    display: flex; 
+    justify-content: space-between;
+}
+.text{
+    font-size: 20px;
+    flex: 4;
+}
+.calltoaction button{
+    background-color: #3882f6;
+    font-size: 18px;
+    font-weight: bold;
+    height: 40px;
+    color: #f9faf8;
+    border-color: #ffffff;
+    border-radius:10px;
+    border: 2px solid;
+    flex: 1;
+    align-self: center;
+}
