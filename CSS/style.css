@@ -71,3 +71,14 @@ body{
 .image p{
     font-size: 16px;
 }
+.container3{
+    background-color: #e5e7eb;
+    padding-left: 80px;
+    padding-right: 40px;
+    padding-bottom: 80px;
+    display: flex; 
+    justify-content: space-between;
+    flex-direction: column;
+    font-size: 36px;
+    color: #1f2937;
+  }
