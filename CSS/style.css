@@ -48,7 +48,7 @@ body{
     width: 150px;
     font-size: 18px;
     font-weight: bold;
-    border: ;
+    border: none;
 }
 .imagebox{
     flex: 1;
